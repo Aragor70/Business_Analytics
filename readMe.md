@@ -79,7 +79,7 @@ The chart above represents growing trend in the customers demand of bike sharing
 <img src='./mnth.png' />
 </div>
 
-The graph in terms of the month shows the highest records of product demand represent potential customer needs. The graph shows the high record in a relatively warm period. The highest demand was in the summer period, even 200% compared to the lowest score in January. Low records are caused by winter and spring and the danger of driving a bike.
+The graph in terms of the month shows the highest records of product demand represent potential customer needs. The graph shows the high record in a relatively warm period. The highest demand was in the summer period, even 200% compared to the lowest score in January. Low records are caused by late winter and spring and the danger of driving a bike.
 
 The winter period is a great period for company to build the tests, try new technologies to upgrade the offer and service, or replace current equipment.
 
@@ -91,4 +91,31 @@ This case represents the huge effect of the weather on customers demand.
 <img src='./season.png' />
 </div>
 
-The chart above confirms demand dependence on season weather.
+The chart above confirms demand dependence on season weather. The experience from the grafic chart by month compared with seasonality represents still a lot of interest of bikes to half of the winter. Records fall in the second half of the winter.
+
+A company having this knowledge can plan its activities.
+
+Potential customers can look for other forms of spending time during cold season.
+
+
+<div align="center" >
+<img src='./hr.png' />
+</div>
+
+The chart above help to predict the reason why customers use bike sharing. It presents the average of demand during all day. 
+
+The high average degree at 8 am could have been caused of the morning trip to work or school. The records at 5 pm and 6 pm would be caused of trip from work or school then. In terms of all day, during all day customers use bikes activity in high frequency.
+
+<div align="center" >
+<img src='./weekday.png' />
+</div>
+
+The chart above represents the high degree of the frequency during all week, with no exception of the working day. Customers use bike-sharing in terms of their favorite form of travel and for the pleasure of spending the free time.
+
+### Summary
+
+Customers use bike-sharing services when it is easy access especially from home for daily travel. The only reason to stop using bikes is because of the weather. They use bike equipment for pleasure. In case of difficulties, potential customers use a move possible form of travel.
+
+It is important to plan logistic activities in a low range period to implement special bike 'docks' in strategic places.
+
+Bike docks will do their job in places close to workplaces, schools, shopping malls, and city centers.
