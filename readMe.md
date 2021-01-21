@@ -27,7 +27,7 @@ Author of data analysis: mikey.prus@gmail.com
 ### Data description 
 This dataset contains the <b>hourly and daily</b> count of rental bikes <b>between years 2011 and 2012</b> in Capital bikeshare system with the corresponding <b>weather and seasonal information</b>.
 
-<div style='style="text-align:center"'>
+<div align="center">
 <img src='./data.png' />
 </div>
 
@@ -69,13 +69,13 @@ This dataset contains the <b>hourly and daily</b> count of rental bikes <b>betwe
 
 ### Graphical representation in terms of time period 2011 - 2012
 
-<div style='style="text-align:center"'>
+<div align="center">
 <img src='./yr.png' />
 </div>
 
 The chart above represents growing trend in the customers demand of bike sharing system. It could be caused of good quality of the companies equipment and proper product promotion.
 
-<div style='style="text-align:center"'>
+<div align="center">
 <img src='./mnth.png' />
 </div>
 
@@ -87,7 +87,7 @@ The low intensive period happens between November - March. An average of 130 cus
 
 This case represents the huge effect of the weather on customers demand.
 
-<div style='style="text-align:center"'>
+<div align="center" >
 <img src='./season.png' />
 </div>
 
