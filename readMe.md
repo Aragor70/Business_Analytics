@@ -24,7 +24,7 @@ Author of data set: Hadi Fanaee-T - Laboratory of Artificial Intelligence and De
 Author of data analysis: mikey.prus@gmail.com
 
 
-### Database description 
+### Data description 
 This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
 
 
@@ -58,3 +58,12 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 ### Technologies
 * pandas
 * matplotlib.pyplot
+
+### Goal
+
+* The effect of external factors on the size of demand.
+
+* Provide convenient access to equipment for any potential user. 
+
+
+
