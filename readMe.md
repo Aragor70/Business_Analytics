@@ -56,3 +56,5 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 - cnt: count of total rental bikes including both casual and registered
 
 ### Technologies
+* pandas
+* matplotlib.pyplot
