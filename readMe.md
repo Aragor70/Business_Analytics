@@ -71,7 +71,7 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 
 <img src='./yr.png'>
 
-Upper graph represent growning trend in the market of bike sharing system. It could represent good quality of the companies equipment and right marketing process.
+The chart above represents growing trend in the customers demand of bike sharing system. It could be caused of good quality of the companies equipment and proper product promotion.
 
 <img src='./mnth.png'>
 
