@@ -66,4 +66,19 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 * Provide convenient access to equipment for any potential user. 
 
 
+### Graph data in terms of time period 2011 - 2012
 
+
+<img src='./yr.png'>
+
+Upper graph represent growning trend in the market of bike sharing system. It could represent good quality of the companies equipment and right marketing process.
+
+<img src='./mnth.png'>
+
+Graph in terms of month shows the highest records of product demand represent potential customer needs. The graph shows the high record in relatively warm period. The highest demand was in the summer period, even 200% compared to the lowest score in January. Low records are caused of winter and the danger of driving a bike.
+
+Winter period is a great period for company to build the tests, try new technologies to upgrade the offer and service or replace current equipment.
+
+The low intensive prediod happen between November - March. The average of 130 customers per month use our product.
+
+This case represent huge effect of the weather on customers demand.
