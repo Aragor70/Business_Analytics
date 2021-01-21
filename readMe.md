@@ -2,7 +2,7 @@
 ## Bike Sharing Enterprise 
 
 ### Inception
-This is a project of analysis of available data from the Bike Sharing company. 
+This is a project of analysis of available data from the <b>Bike Sharing company</b>. 
 Bike sharing is based in the public bicycle scheme. It is a service to share use to individuals on a short term basis for a price or free. The scheme of sharing bikes allows people to borrow a bike from a "dock" and return it at another dock belonging to the same system.
 
 Companies page: https://www.capitalbikeshare.com/
@@ -25,10 +25,11 @@ Author of data analysis: mikey.prus@gmail.com
 
 
 ### Data description 
-This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
+This dataset contains the <b>hourly and daily</b> count of rental bikes <b>between years 2011 and 2012</b> in Capital bikeshare system with the corresponding <b>weather and seasonal information</b>.
 
-
-<img src='./data.png'>
+<div style='style="text-align:center"'>
+<img src='./data.png' />
+</div>
 
 ### Data Records
 
@@ -66,19 +67,28 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 * Provide convenient access to equipment for any potential user. 
 
 
-### Graph data in terms of time period 2011 - 2012
+### Graphical representation in terms of time period 2011 - 2012
 
-
-<img src='./yr.png'>
+<div style='style="text-align:center"'>
+<img src='./yr.png' />
+</div>
 
 The chart above represents growing trend in the customers demand of bike sharing system. It could be caused of good quality of the companies equipment and proper product promotion.
 
-<img src='./mnth.png'>
+<div style='style="text-align:center"'>
+<img src='./mnth.png' />
+</div>
 
-Graph in terms of month shows the highest records of product demand represent potential customer needs. The graph shows the high record in relatively warm period. The highest demand was in the summer period, even 200% compared to the lowest score in January. Low records are caused of winter and the danger of driving a bike.
+The graph in terms of the month shows the highest records of product demand represent potential customer needs. The graph shows the high record in a relatively warm period. The highest demand was in the summer period, even 200% compared to the lowest score in January. Low records are caused by winter and spring and the danger of driving a bike.
 
-Winter period is a great period for company to build the tests, try new technologies to upgrade the offer and service or replace current equipment.
+The winter period is a great period for company to build the tests, try new technologies to upgrade the offer and service, or replace current equipment.
 
-The low intensive prediod happen between November - March. The average of 130 customers per month use our product.
+The low intensive period happens between November - March. An average of 130 customers per month uses our product.
 
-This case represent huge effect of the weather on customers demand.
+This case represents the huge effect of the weather on customers demand.
+
+<div style='style="text-align:center"'>
+<img src='./season.png' />
+</div>
+
+The chart above confirms demand dependence on season weather.
