@@ -114,7 +114,7 @@ The chart above represents the high degree of the frequency during all week, wit
 
 ### Summary
 
-Customers use bike-sharing services when it is easy access especially from home for daily travel. The only reason to stop using bikes is because of the weather. They use bike equipment for pleasure. In case of difficulties, potential customers use a move possible form of travel.
+Customers use bike-sharing services when it is easy access especially from home for daily travel. The only reason to stop using bikes is because of the weather. Customers use bikes as a favorite form of movement. In the case of difficulties to use a bike, potential customers choose a different, more possible form of travel.
 
 It is important to plan logistic activities in a low range period to implement special bike 'docks' in strategic places.
 
