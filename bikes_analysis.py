@@ -28,6 +28,7 @@ print(bikes_prep.columns.values[:-5])
 
 
 
+
 for i in range(len(bikes_prep.columns.values[:-5]) - 1):
     columns = ['Season', 'Year', 'Month', 'Hour', 'Holiday', 'Weekday', 'Working day', 'Weather']
     fig = plt.figure(figsize=(3, 2))
@@ -44,8 +45,8 @@ for i in range(len(bikes_prep.columns.values[:-5]) - 1):
     
     ax.bar(cat_list, cat_average, color=colors)
     
-    
-    plt.savefig(f'C:/Users/Nicolai/Documents/Bikes_analytics/{bikes_prep.columns.values[i]}.png', dpi=200, format='png', bbox_inches='tight')
+    # save figures in current location directory
+    plt.savefig(f'{bikes_prep.columns.values[i]}.png', dpi=200, format='png', bbox_inches='tight')
     
     plt.show()
 
