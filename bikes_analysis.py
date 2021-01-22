@@ -27,6 +27,12 @@ colors = ['g', 'r', 'm', 'b']
 print(bikes_prep.columns.values[:-5])
 
 
+plt.title('Average Demand per Weeks day')
+
+cat_list = bikes_prep['weekday'].unique()
+cat_average = bikes_prep.groupby('weekday').mean()['cnt']
+
+plt.plot(cat_list, cat_average)
 
 
 for i in range(len(bikes_prep.columns.values[:-5]) - 1):
